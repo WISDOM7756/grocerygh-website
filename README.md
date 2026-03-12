@@ -1,4 +1,4 @@
-GROCERYGH WEBSITE
+## GROCERYGH WEBSITE
 
 This is a simple e-commerce grocery website designed to display grocery products and allow users to browse items online.
 
